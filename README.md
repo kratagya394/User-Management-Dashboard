@@ -108,15 +108,20 @@ HTTP methods used:
 
 ### Dashboard
 
-> ![Dashboard](./Images/Dashboard.png)
+> ![Dashboard](./images/Dashboard.png)
 
 ### Add User
 
-> ![Add User](./Images/AddUser.png)
+> ![Add User](./images/AddUser.png)
 
 ### Filter Users
 
-> ![Filter Modal](./Images/FilterUsers.png)
+> ![Filter Modal](./images/FilterUsers.png)
+
+---
+## 🚀 Live Demo
+
+https://user-management-dashboard-six-brown.vercel.app/
 
 ---
 
